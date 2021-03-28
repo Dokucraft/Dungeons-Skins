@@ -23,7 +23,7 @@ Set Paths in Scripts/settings
 
 Run Package Skin.bat
 
-#### Automation Settings in Package Skin.bat
+### Automation Settings in Package Skin.bat
 
 **Cape Automation**
 
