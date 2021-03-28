@@ -21,6 +21,14 @@ Set Paths in Scripts/settings
 
 ## Instructions
 
+Place Skin into Skin/Skin with any name, 1 Skin at a time
+
+Skins have to be either 64x32, or 64x64
+
+Place Cape into Skin/Cape with any name, 1 Cape at a time
+
+Capes have to be 32x32, 64x64, 22x17, 44x34, 46x22, or 92x44
+
 Run Package Skin.bat
 
 ### Automation Settings in Package Skin.bat
