@@ -1,0 +1,19 @@
+{
+   "ImportGroups":[
+      {
+          "GroupName":"Textures",
+          "Filenames":[
+           "C://Users//SyndiShanX//Desktop//MinecraftDungeons//Github//Dungeons-Skins//DungeonsSkins//Content//Dungeons//Content//Actors//Characters//Player//Master//Skins//Sam//T_Sam_Skin.png",
+           "C://Users//SyndiShanX//Desktop//MinecraftDungeons//Github//Dungeons-Skins//DungeonsSkins//Content//Dungeons//Content//Actors//Characters//Player//Master//Skins//Sam//T_Sam_Skin_S.png"
+          ],
+          "DestinationPath":"/Game/Dungeons/Content/Actors/Characters/Player/Master/Skins/Sam/",
+          "bReplaceExisting":"true",
+          "bSkipReadOnly":"false",
+         "FactoryName": "TextureFactory",
+          "ImportSettings":{
+              "CompressionSettings": "TC_BC7",
+             "LODGroup": "TEXTUREGROUP_Pixels2D"
+          }
+      }
+   ]
+}

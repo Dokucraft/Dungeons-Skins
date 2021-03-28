@@ -1,0 +1,19 @@
+{
+   "ImportGroups":[
+      {
+          "GroupName":"Textures",
+          "Filenames":[
+           "C://Users//brian//Desktop//MinecraftDungeons//Github//Dungeons-Skins//DungeonsSkins//Content//Dungeons//Content//Actors//Characters//Player//Master//Skins//Steve//T_Steve_Skin.png",
+           "C://Users//brian//Desktop//MinecraftDungeons//Github//Dungeons-Skins//DungeonsSkins//Content//Dungeons//Content//Actors//Characters//Player//Master//Skins//Steve//T_Steve_S.png"
+          ],
+          "DestinationPath":"/Game/Dungeons/Content/Actors/Characters/Player/Master/Skins/Steve/",
+          "bReplaceExisting":"true",
+          "bSkipReadOnly":"false",
+         "FactoryName": "TextureFactory",
+          "ImportSettings":{
+              "CompressionSettings": "TC_BC7",
+             "LODGroup": "TEXTUREGROUP_Pixels2D"
+          }
+      }
+   ]
+}

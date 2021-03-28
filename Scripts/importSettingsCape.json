@@ -1,0 +1,19 @@
+{
+   "ImportGroups":[
+      {
+          "GroupName":"Textures",
+          "Filenames":[
+           "C://Users//brian//Desktop//MinecraftDungeons//Github//Dungeons-Skins//DungeonsSkins//Content//Dungeons//Content//Actors//Characters//Player//Capes//Skins//MonstrosityGoldenCape//T_RedstoneMonstrosityGoldenCape.png",
+           "C://Users//brian//Desktop//MinecraftDungeons//Github//Dungeons-Skins//DungeonsSkins//Content//Dungeons//Content//Actors//Characters//Player//Capes//Skins//MonstrosityGoldenCape//T_RedstoneMonstrosityGoldenCape_S.png"
+          ],
+          "DestinationPath":"/Game/Dungeons/Content/Actors/Characters/Player/Capes/Skins/MonstrosityGoldenCape/",
+          "bReplaceExisting":"true",
+          "bSkipReadOnly":"false",
+         "FactoryName": "TextureFactory",
+          "ImportSettings":{
+              "CompressionSettings": "TC_BC7",
+             "LODGroup": "TEXTUREGROUP_Pixels2D"
+          }
+      }
+   ]
+}

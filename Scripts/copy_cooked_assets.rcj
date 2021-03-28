@@ -1,0 +1,8 @@
+/SD:DungeonsSkins\Saved\Cooked\WindowsNoEditor\DungeonsSkins\Content\Dungeons\Content
+/DD:Dungeons\Content
+/s
+/XF
+M_*.u*
+MI_*.u*
+SK_TargetDummy_Skeleton.*
+SK_TargetDummy_PhysicsAsset.*
