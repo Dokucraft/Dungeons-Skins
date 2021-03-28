@@ -3,6 +3,8 @@ Scripts to Convert a Java Skin to a Dungeons Mod using Python
 
 ## Requirements
 
+Unreal Engine 4.22.3
+
 Python 3.8+
 
 > python -m pip install --upgrade pip
