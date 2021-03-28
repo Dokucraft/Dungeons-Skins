@@ -19,8 +19,6 @@ Set Paths in Scripts/settings
 
 * game_directory.txt *Path to Mods Folder*
 
-* skins_directory.txt *Path to local Repository*
-
 ## Instructions
 
 Place Skin into Skin/Skin with any name, 1 Skin at a time
