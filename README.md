@@ -47,7 +47,9 @@ Run Package Skin.bat
 
 > python "Scripts/Main.py" '' '' '' '' ''
 
-> Argument 1: Skin Format (1 = JavaSteve, 2 = JavaAlex)
+**Automation Arguments**
+
+> ArgumentArgument 1: Skin Format (1 = JavaSteve, 2 = JavaAlex)
 > 
 > Argument 2: Skin or Cape (1 = Skin, 2 = Cape)
 > 
