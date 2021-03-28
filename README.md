@@ -23,19 +23,19 @@ Set Paths in Scripts/settings
 
 Run Package Skin.bat
 
-Automation Settings in Package Skin.bat
+#### Automation Settings in Package Skin.bat
 
 **Cape Automation**
 
-python "Scripts/Main.py" '' 2 Test '' ''
+> python "Scripts/Main.py" '' 2 Test '' ''
 
 **Skin Automation**
 
-python "Scripts/Main.py" 1 1 Test Steve 2
+> python "Scripts/Main.py" 1 1 Test Steve 2
 
 **Manual Run**
 
-python "Scripts/Main.py" '' '' '' '' ''
+> python "Scripts/Main.py" '' '' '' '' ''
 
 > Argument 1: Skin Format (1 = JavaSteve, 2 = JavaAlex)
 > 
