@@ -5,9 +5,9 @@ Scripts to Convert a Java Skin to a Dungeons Mod using Python
 
 Python 3.8+
 
-python -m pip install --upgrade pip
+> python -m pip install --upgrade pip
 
-python -m pip install --upgrade Pillow
+> python -m pip install --upgrade Pillow
 
 ## Setup
 
