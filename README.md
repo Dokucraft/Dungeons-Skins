@@ -25,11 +25,17 @@ Run Package Skin.bat
 
 Automation Settings in Package Skin.bat
 
-**Cape Automation** python "Scripts/Main.py" '' 2 Test '' ''
+**Cape Automation**
 
-**Skin Automation** python "Scripts/Main.py" 1 1 Test Steve 2
+python "Scripts/Main.py" '' 2 Test '' ''
 
-**Manual Run** python "Scripts/Main.py" '' '' '' '' ''
+**Skin Automation**
+
+python "Scripts/Main.py" 1 1 Test Steve 2
+
+**Manual Run**
+
+python "Scripts/Main.py" '' '' '' '' ''
 
 > Argument 1: Skin Format (1 = JavaSteve, 2 = JavaAlex)
 > 
